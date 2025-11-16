@@ -83,7 +83,7 @@ $ns at 5.0 "finish"
 $ns run
  
 # OUTPUT
-<img width="801" height="365" alt="Screenshot 2025-11-16 204734" src="https://github.com/user-attachments/assets/266e9106-097e-4171-a6f6-62be6277c187" />
+![WhatsApp Image 2025-11-16 at 20 55 49_f2c54dee](https://github.com/user-attachments/assets/0ceea98b-6a63-4fcb-b7e9-f5869c001248)
 
 
 
